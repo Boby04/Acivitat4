@@ -106,6 +106,7 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
 > **LA MEVA PRIMERA APLICACIÓ ÉS "CALENDAR"**
 
+![](CALENDARI11.png)
 
 **RESPOSTA SEGONA APP**
 
