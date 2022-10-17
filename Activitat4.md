@@ -107,6 +107,8 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
 > **LA MEVA PRIMERA APLICACIÓ ÉS "CALENDAR"**
 
+![image](https://github.com/Boby04/Acivitat4/blob/main/CALDENARI1.png?raw=true)
+
 
 **RESPOSTA SEGONA APP**
 
