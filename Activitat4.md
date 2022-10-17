@@ -106,7 +106,6 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
 > **LA MEVA PRIMERA APLICACIÓ ÉS "CALENDAR"**
 
-
 **RESPOSTA SEGONA APP**
 
 **4.14.-** Crearem una carpeta nova per emmagatzematge a Owncloud, la carpeta serà /media/publicXYZ on XYZ són les teves inicials i apareixerà amb el nom de public als usuaris.
