@@ -97,6 +97,7 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 ![](comparteixcarpeta.png)
 
 
+
 **4.13.-** Entra a Market instal·la dues aplicacions que no estiguin ja instal·lades i explica què fan i com funcionen.
 
 ![image](https://user-images.githubusercontent.com/110727546/196159706-705ff624-c409-4632-acb4-f43ffcc486d4.png)
@@ -106,7 +107,6 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
 > **LA MEVA PRIMERA APLICACIÓ ÉS "CALENDAR"**
 
-![](CALENDARI11.png)
 
 **RESPOSTA SEGONA APP**
 
