@@ -106,32 +106,44 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 ## **RESPOSTA PRIMERA APP**
 
 
-#### **LA MEVA PRIMERA APLICACIÓ ÉS "CALENDAR"**
+### **LA MEVA PRIMERA APLICACIÓ ÉS "CALENDAR"**
 
 ![image](https://github.com/Boby04/Acivitat4/blob/main/CALDENARI1.png?raw=true)
 
-#### **Aquesta és la seva interfes i les seves opcions per crear**
+### **Aquesta és la seva interfes i les seves opcions per crear**
 
 ![image](https://github.com/Boby04/Acivitat4/blob/main/CALDENARI.png)
 
-#### **Podem crear tasques amb diferent color amb diferents significats per recorda que has de fer cada dia**
+### **Podem crear tasques amb diferent color amb diferents significats per recorda que has de fer cada dia**
 
 ![image](https://github.com/Boby04/Acivitat4/blob/main/CALDENARI2.png)
 
-#### **Aquí podem veure com a quedat less tasques de "personal"**
+### **Aquí podem veure com a quedat less tasques de "personal"**
 
 ![image](https://github.com/Boby04/Acivitat4/blob/main/CALDENARI3.png)
 
-#### **Allavors podem crear unaltre nom i unaltre color de tasca que volem fer**
+### **Allavors podem crear unaltre nom i unaltre color de tasca que volem fer**
 
 ![image](https://github.com/Boby04/Acivitat4/blob/main/CALDENARI4.png)
 
-#### **Aquí es pot veure com quedaria**
+### **Aquí es pot veure com quedaria**
 
 ![image](https://github.com/Boby04/Acivitat4/blob/main/CALDENARI5.png)
 
 
-**RESPOSTA SEGONA APP**
+## **RESPOSTA SEGONA APP**
+
+### **En el cas de la segona app he escollit la app "Drawio"**
+
+![](Draw.png)
+
+### **Per fer servir aquesta aplicació ens haurem de dirigir a la pantalla inicial, i haurem de clica al icino de "+" i selecionem de crear un diagrama**
+
+![](Draw1.png)
+
+### **Una vegada dins, fem la faena necessaria com si fos una aplicació de digrama normal**
+
+![](Draw2.png)
 
 **4.14.-** Crearem una carpeta nova per emmagatzematge a Owncloud, la carpeta serà /media/publicXYZ on XYZ són les teves inicials i apareixerà amb el nom de public als usuaris.
 
