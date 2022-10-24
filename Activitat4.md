@@ -102,12 +102,33 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
 ![image](https://user-images.githubusercontent.com/110727546/196159706-705ff624-c409-4632-acb4-f43ffcc486d4.png)
 
-**RESPOSTA PRIMERA APP**
+
+## **RESPOSTA PRIMERA APP**
 
 
-> **LA MEVA PRIMERA APLICACIÓ ÉS "CALENDAR"**
+#### **LA MEVA PRIMERA APLICACIÓ ÉS "CALENDAR"**
 
 ![image](https://github.com/Boby04/Acivitat4/blob/main/CALDENARI1.png?raw=true)
+
+#### **Aquesta és la seva interfes i les seves opcions per crear**
+
+![image](https://github.com/Boby04/Acivitat4/blob/main/CALDENARI.png)
+
+#### **Podem crear tasques amb diferent color amb diferents significats per recorda que has de fer cada dia**
+
+![image](https://github.com/Boby04/Acivitat4/blob/main/CALDENARI2.png)
+
+#### **Aquí podem veure com a quedat less tasques de "personal"**
+
+![image](https://github.com/Boby04/Acivitat4/blob/main/CALDENARI3.png)
+
+#### **Allavors podem crear unaltre nom i unaltre color de tasca que volem fer**
+
+![image](https://github.com/Boby04/Acivitat4/blob/main/CALDENARI4.png)
+
+#### **Aquí es pot veure com quedaria**
+
+![image](https://github.com/Boby04/Acivitat4/blob/main/CALDENARI5.png)
 
 
 **RESPOSTA SEGONA APP**
