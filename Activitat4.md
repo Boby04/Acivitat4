@@ -156,9 +156,22 @@ Aquesta carpeta haurà de pertànyer a l'usuari www-data.
 
 **RESPOSTA**
 
+![](CarpetaCompartida.png)
+
+
 **4.16.-** Un usuari normal pujarà un fitxer a la carpeta public.
 
 **RESPOSTA**
+
+![](ComandaEdita.png)
+
+![](Text.png)
+
+![](Emmagatzematge.png)
+
+**COMPROVACIÓ**
+
+![](Comprovacio.png)
 
 **OPCIONAL.-** Aquesta tasca és opcional.
 
